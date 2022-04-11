@@ -10,7 +10,7 @@
 
 
     text-align: center;
-    margin-bottom: 80px;
+  
 
 }
 
@@ -19,9 +19,20 @@
 
 
 float: left;
-width: 33%;
-margin-bottom: 60px;
-position: relative;
+width: 25%;
 
 
+
+
+
+}
+.wimages{
+margin: auto;
+position: absolute;
+bottom: 0;
+
+}
+.wcontent h1,p{
+
+    color: #fff;
 }

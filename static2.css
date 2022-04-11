@@ -4,32 +4,34 @@
     margin: 0;
     font-family: sans-serif;
     box-sizing: border-box;
+
+    
+   
+   
 }
+
+
 
 .wcontent{
 
 
     text-align: center;
-    margin-bottom: 80px;
+    margin-bottom: 10px;
+
+}
+.wcontent h1,p{
+
+    color:#fff;
+}
+.wperfume img{
+width: 50%;
+
 
 }
 
-.wimages  img{
+div.wim{
+    margin:auto;
 
-
-
-float: left;
-width: 33%;
-margin-bottom: 60px;
-position: relative;
-
-
+    display:inline-block;
+    width: 30%;
 }
-/*.wimages div span {
-
-    position: absolute;
-    left: 50%;
-    bottom: 10px;
-}
-*/
- 
