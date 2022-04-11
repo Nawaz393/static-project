@@ -219,7 +219,11 @@ button:hover {
         
     }
     
+.image{
 
+position: relative;
+    height: 120vh;
+}
     
     .nav ul,li {
         

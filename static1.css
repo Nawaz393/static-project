@@ -13,26 +13,20 @@
   
 
 }
-
-.wimages  img{
-
-
-
-float: left;
-width: 25%;
-
-
-
-
-
-}
-.wimages{
-margin: auto;
-position: absolute;
-bottom: 0;
-
-}
 .wcontent h1,p{
 
-    color: #fff;
+    color:#fff;
+}
+.mim img{
+width: 50%;
+
+
+}
+
+div.mim{
+        margin:auto;
+        display:inline-block;
+        width: 30%;
+        color: #fff;
+    
 }
